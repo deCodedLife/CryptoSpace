@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>doc24.png</file>
+        <file>doc32.png</file>
+        <file>edit24.png</file>
+        <file>file24.png</file>
+        <file>file32.png</file>
+        <file>image24.png</file>
+        <file>image32.png</file>
+        <file>preloader.gif</file>
+        <file>video24.png</file>
+        <file>video32.png</file>
+        <file>folder24.png</file>
+        <file>folder32.png</file>
+        <file>decrypt24.png</file>
+        <file>encrypt24.png</file>
+        <file>next24.png</file>
+        <file>audio24.png</file>
+        <file>crp24.png</file>
+    </qresource>
+</RCC>
